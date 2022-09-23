@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT qr_code_system.wsgi:application
